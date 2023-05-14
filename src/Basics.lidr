@@ -389,7 +389,7 @@ Idris provides a \gls{module system}, to aid in organizing large developments.
 
 == Numbers
 
-> namespace Numbers
+> %hide Nat
 >
 
 The types we have defined so far are examples of "enumerated types": their
