@@ -209,6 +209,8 @@ solve the proof for you.)
 == Booleans
 
 > %hide Bool
+> %hide (&&)
+> %hide (||)
 >
 
 In a similar way, we can define the standard type \idr{Bool} of booleans, with
